@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://res.cloudinary.com/carepackageconnect/image/upload/v1653963897/v0u5bwi7hwoptmuwhpdw.png" width="125"/>
+  <img src="https://i.imgur.com/So9LdPu.png" width="125"/>
   <h1>Welcome to my GitHub profile! 👋</h1>
   <div id="linked-in">
     <a href="https://www.linkedin.com/in/eugene-belianski/">
