@@ -17,7 +17,7 @@
 - ⚡ Huge passion for music and illustration.
 - ⚡ Enjoy analyzing large data sets.
 
-### 🛠️ Current toolkit:
+### 🛠️ Current Toolkit:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
@@ -35,8 +35,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sourcetree/sourcetree-original-wordmark.svg" title="SourceTree" alt="SourceTree" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg" title="FileZilla" alt="FileZilla" width="40" height="40"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-   
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+
+### :pushpin: Pinned Repositories:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Esn024&repo=abc-kalimba-synth&theme=tokyonight)](https://github.com/Esn024/abc-kalimba-synth)
+
+### 🔥 My Stats:
+
+<img align = "left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Esn024&show_icons=true&theme=radical"/>
+<img align = "left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esn024&layout=compact&theme=radical"/>
+
+
+<!-- Find more icons here: https://github.com/devicons/devicon/tree/master/icons -->
 
 <!--
 **Esn024/Esn024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
