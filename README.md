@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://i.imgur.com/So9LdPu.png" width="125"/>
+  <img src="https://i.imgur.com/ny8cQ3K.png" width="200"/>
   <h1>Welcome to my GitHub profile! 👋</h1>
   <div id="linked-in">
     <a href="https://www.linkedin.com/in/eugene-belianski/">
