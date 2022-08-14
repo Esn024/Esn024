@@ -39,7 +39,7 @@
 
 ### :pushpin: Pinned Repositories:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Esn024&repo=abc-kalimba-synth&theme=tokyonight)](https://github.com/Esn024/abc-kalimba-synth)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Esn024&repo=abckalimba&theme=tokyonight)](https://github.com/Esn024/abckalimba)
 
 ### 🔥 My Stats:
 
