@@ -13,7 +13,7 @@
 
 - 🔭 Full MERN/WAMP stack developer from Cambridge, ON, Canada.
 - 🔭 Looking for a full-time or contract position.
-- 🌱 Currently learning TypeScript, Redux, Firebase, Solid.js, and software design patterns.
+- 🌱 Currently learning Redux, Firebase, Solid.js, and software design patterns.
 - ⚡ Huge passion for music and illustration.
 - ⚡ Enjoy analyzing large data sets.
 
