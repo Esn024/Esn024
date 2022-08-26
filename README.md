@@ -46,7 +46,7 @@
 ### 🔥 My Stats:
 
 <img align = "left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Esn024&show_icons=true&theme=radical"/>
-<!-- <img align = "left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esn024&layout=compact&theme=radical"/> -->
+<img align = "left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esn024&layout=compact&theme=radical"/>
 
 
 <!-- Find more icons here: https://github.com/devicons/devicon/tree/master/icons -->
