@@ -11,11 +11,14 @@
 
 ### :man_technologist: About Me: 
 
-- 🔭 Full MERN/WAMP stack developer from Cambridge, ON, Canada.
-- 🔭 Looking for a full-time or contract position.
-- 🌱 Currently learning Redux, Firebase, Solid.js, and software design patterns.
-- ⚡ Huge passion for music and illustration.
-- ⚡ Enjoy analyzing large data sets.
+- 🔭 Software developer who enjoys music and animation.
+- 🔭 Based in Ontario, Canada.
+
+### 🛠️ Showcase Apps:
+
+- [Animatsiya](https://www.animatsiya.net/) - A themed community portal & collaborative database focused on animation that allows films to be watched online paired with user-submitted subtitles, built with PHP, jQuery, JavaScript and MySQL
+- [abcKalimba](https://github.com/Esn024/abckalimba) - An online musical tool that can be used for education and note-taking by players of tine-based instruments such as the Kalimba (thumb piano) or Marimba, built with JavaScript, React, Node and MongoDB
+- [five-webstore](https://github.com/Esn024/five-webstore) - A simple online store with a shopping cart and inventory built with TypeScript, Node and MongoDB
 
 ### 🛠️ Current Toolkit:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -37,7 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" title="Heroku" alt="Heroku" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/filezilla/filezilla-plain-wordmark.svg" title="FileZilla" alt="FileZilla" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-
+<!--
 ### :pushpin: Pinned Repositories:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Esn024&repo=abckalimba&theme=tokyonight)](https://github.com/Esn024/abckalimba)
@@ -47,7 +50,7 @@
 
 <img align = "left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api?username=Esn024&show_icons=true&theme=radical"/>
 <img align = "left" width="47%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Esn024&layout=compact&theme=radical"/>
-
+-->
 
 <!-- Find more icons here: https://github.com/devicons/devicon/tree/master/icons -->
 
