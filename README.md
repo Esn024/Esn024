@@ -18,7 +18,6 @@
 
 - [Animatsiya](https://www.animatsiya.net/) - A themed community portal & collaborative database focused on animation that allows films to be watched online paired with user-submitted subtitles. Built with PHP, jQuery, JavaScript and MySQL
 - [abcKalimba](https://github.com/Esn024/abckalimba) - An online musical tool that can be used for education and note-taking by players of tine-based instruments such as the Kalimba (thumb piano) or Marimba. Built with JavaScript, React, Node and MongoDB
-- [five-webstore](https://github.com/Esn024/five-webstore) - A simple online store with a shopping cart and inventory. Built with TypeScript and Node
 
 ### 🛠️ Current Toolkit:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
